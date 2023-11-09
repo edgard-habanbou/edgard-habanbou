@@ -1,7 +1,7 @@
 ### Hi there 👋, Edgard Habanbou
 
 #### Full Stack Development
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgardhab)](https://github.com/anuraghazra/github-readme-stats)
 
 I am a passionate Web-Developer with a strong background in both Back-End and Front-end development. My work focuses on crafting the backbone of web applications from data management to server architecture to security. I studied Dev-Ops tools to ensure the reliability and security for application delivery. When I'm not coding I enjoy nature, camping and looking at sunsets.
 

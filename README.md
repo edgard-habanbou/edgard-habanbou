@@ -6,10 +6,10 @@
 
 I am a passionate Web-Developer with a strong background in both Back-End and Front-end development. My work focuses on crafting the backbone of web applications from data management to server architecture to security. I studied Dev-Ops tools to ensure the reliability and security for application delivery. When I'm not coding I enjoy nature, camping and looking at sunsets.
 
-## Skills and Experience:
+## Skills:
 
-- Back-End: ASP.NET, C#, PHP, MySQL, JSON, Rest API, Java.
-- Front-End: HTML, CSS, Bootstrap, Ajax, Razor, jQuery.
+- Back-End: ASP.NET, C#, PHP, MySQL, mongoDB, Rest API and Java.
+- Front-End: HTML, CSS, Bootstrap, Ajax, Razor, JavaScript and jQuery.
 - Others: Linux, Agile, Docker, AWS, Git, PowerBI, Tableau.
 
 ## Stats:

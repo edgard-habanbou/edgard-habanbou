@@ -14,8 +14,8 @@ I am a passionate Web-Developer with a strong background in both Back-End and Fr
 
 ## Experience:
 
-###Software Engineer
-#### Data Consult / Sentirnt360
+####Software Engineer
+##### Data Consult / Sentirnt360
 
 - Successfully designed and developed a comprehensive Customer Relationship Management (CRM/ERP) system for an MSP.
 - Created a RESTful API to facilitate efficient system configuration changes, ensuring scalability.
@@ -29,8 +29,8 @@ ticket generation during sensor downtime.
 - Conducted thorough debugging to guarantee the reliability and high performance of the system.
 - Proficiently worked with DevOps tools including AWS, Docker and Git.
 
-### Research and Development Intern
-#### Web-Based 
+#### Research and Development Intern
+##### Web-Based 
 - Developed classification system with Core-NLP and optimized natural language processing algorithms to handle over
 10K articles.
 

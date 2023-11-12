@@ -8,15 +8,20 @@ I am a passionate Web-Developer with a strong background in both Back-End and Fr
 
 ## Skills:
 
-- Back-End: ASP.NET, C#, PHP, MySQL, mongoDB, Rest API and Java.
-- Front-End: HTML, CSS, Bootstrap, Ajax, Razor, JavaScript and jQuery.
-- Others: Linux, Agile, Docker, AWS, Git, PowerBI, Tableau.
+- Back-End: 
+ASP.NET, C#, PHP, MySQL, mongoDB, Rest API and Java.
+
+- Front-End: 
+HTML, CSS, Bootstrap, Ajax, Razor, JavaScript and jQuery.
+
+- Others: 
+Linux, Agile, Docker, AWS, Git, PowerBI, Tableau.
 
 ## Experience:
 
 #### Software Engineer
 
-##### Data Consult / Sentirnt360
+##### Data Consult / Sentient360
 
 - Successfully designed and developed a comprehensive Customer Relationship Management (CRM/ERP) system for an MSP.
 - Created a RESTful API to facilitate efficient system configuration changes, ensuring scalability.

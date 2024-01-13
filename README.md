@@ -8,14 +8,11 @@ I am a passionate Web-Developer with a strong background in both Back-End and Fr
 
 ## Skills:
 
-- Back-End: 
-ASP.NET, C#, PHP, MySQL, mongoDB, Rest API and Java.
-
-- Front-End: 
-HTML, CSS, Bootstrap, Ajax, Razor, JavaScript and jQuery.
-
-- Others: 
-Linux, Agile, Docker, AWS, Git, PowerBI, Tableau.
+- Programming (and Scripting) Languages // Python, JavaScript, TypeScript, PHP, and SQL, C#, Java 
+- Database Management Systems // MySQL, and NoSQL 
+- Frameworks and Libraries // Laravel v9.x, React, Node.js, JQuery, Express, Bootstrap 5, and Electron.js 
+- Version Control, Cloud Services and Tools // Git, GitHub, AWS, Docker, Firebase, PowerBI, Tableau and Figma 
+- Theory // Complexity Analysis, Data Structures and Algorithms, Design Patterns, and OOP 
 
 ## Experience:
 
@@ -23,24 +20,24 @@ Linux, Agile, Docker, AWS, Git, PowerBI, Tableau.
 
 ##### Data Consult / Sentient360
 
-- Successfully designed and developed a comprehensive Customer Relationship Management (CRM/ERP) system for an MSP.
-- Created a RESTful API to facilitate efficient system configuration changes, ensuring scalability.
-- Improved the automated monitoring system by integrating Solar-Winds and PRTG APIs into a Cron-job, leading to prompt
-ticket generation during sensor downtime.
-- Skillfully utilized SOAP API for CUCM integration, streamlining emergency response procedures.
-- Implemented the user interface using Angular, Bootstrap, HTML, CSS, and JavaScript.
-- Developed back-end functionalities using PHP, Rest-API, and SQL Server for effective data management.
-- Ensured robust security by implementing Google OAuth for user authentication, role-based access control, and data encryption.
-- Integrated SMTP protocol for automated email notifications, ensuring users received timely updates.
-- Conducted thorough debugging to guarantee the reliability and high performance of the system.
-- Proficiently worked with DevOps tools including AWS, Docker and Git.
+- Developed a customer relationship management (CRM/ERP) system.
+- Developed RESTful API for scalable and efficient system configuration changes.
+- Enhanced automated monitoring system by integrating Solar Winds and PRTG APIs into a Cron job, generating tickets promptly in case of sensor downtime.
+- Effectively leveraged CUCM integration with SOAP API to streamline emergency response procedures.
+- Implemented the front-end user interface using Angular, Bootstrap, HTML, CSS, and JavaScript.
+- Developed the back-end functionalities using Core PHP, Rest-API, and SQL Server.
+- Implemented user authentication by Google OAuth, role-based access control, and data encryption for enhanced security.
+- Integrated email notification functionality using SMTP protocol to send automated updates to users.
+- Conducted extensive testing and debugging to ensure the system's reliability and performance.
+- Gained proficiency in various DevOps tools such as AWS, Docker, and Git and explored their functionalities, features, and security aspects, including the implementation of firewalls.
+- Proficient in working with local servers and accessing them using SFTP.
 
 #### Research and Development Intern
 
 ##### Web-Based 
 
-- Developed classification system with Core-NLP and optimized natural language processing algorithms to handle over
-10K articles.
+- Developed classification system with CoreNLP and optimized natural language processing algorithms to handle over 10K articles.
+- Developed a website to utilize Core NLP and respond to natural language queries, increasing the accuracy of classifications by 10%.
 
 ## Stats:
 

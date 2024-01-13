@@ -44,7 +44,7 @@ ticket generation during sensor downtime.
 
 ## Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgardhab)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgard-habanbou)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Links
 

@@ -41,11 +41,11 @@ I am a passionate Web-Developer with a strong background in both Back-End and Fr
 
 ## Stats:
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgard-habanbou&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgard-habanbou&show_icons=true&theme=transparent)](https://github.com/edgard-habanbou)
 
 ## Links
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/edgard-habanbou)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/edgard-habanbou/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/edgard-habanbou)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/edgard-habanbou/)  
 
 
 

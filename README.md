@@ -41,7 +41,7 @@ I am a passionate Web-Developer with a strong background in both Back-End and Fr
 
 ## Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgard-habanbou)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgard-habanbou)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 
 ## Links
 

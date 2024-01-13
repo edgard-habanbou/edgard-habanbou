@@ -16,9 +16,9 @@ I am a passionate Web-Developer with a strong background in both Back-End and Fr
 
 ## Experience:
 
-#### Software Engineer
+### Software Engineer
 
-##### Data Consult / Sentient360
+#### Data Consult / Sentient360
 
 - Developed a customer relationship management (CRM/ERP) system.
 - Developed RESTful API for scalable and efficient system configuration changes.
@@ -32,9 +32,9 @@ I am a passionate Web-Developer with a strong background in both Back-End and Fr
 - Gained proficiency in various DevOps tools such as AWS, Docker, and Git and explored their functionalities, features, and security aspects, including the implementation of firewalls.
 - Proficient in working with local servers and accessing them using SFTP.
 
-#### Research and Development Intern
+### Research and Development Intern
 
-##### Web-Based 
+#### Web-Based 
 
 - Developed classification system with CoreNLP and optimized natural language processing algorithms to handle over 10K articles.
 - Developed a website to utilize Core NLP and respond to natural language queries, increasing the accuracy of classifications by 10%.

@@ -1,6 +1,6 @@
 ![Development](https://github.com/edgardhab/edgardhab/blob/main/github-header-image.png)
 
-# Edgard Habanbou
+# Hello 👋 I'm Edgard Habanbou
 
 ## Stats:
 

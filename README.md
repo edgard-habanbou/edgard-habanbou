@@ -23,6 +23,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=edgard-habanbou&layout=compact&theme=transparent)](https://github.com/Christopher-Yammine/github-readme-stats)
 
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=edgard-habanbou&theme=onedark)](https://github.com/edgard-habanbou)
+
 ## Links
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/edgard-habanbou)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/edgard-habanbou/)  

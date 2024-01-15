@@ -5,6 +5,7 @@
 ## Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgard-habanbou&show_icons=true&theme=transparent)](https://github.com/edgard-habanbou)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=edgard-habanbou&layout=compact&theme=transparent)](https://github.com/Christopher-Yammine/github-readme-stats)
 ## Links
 

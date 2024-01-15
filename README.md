@@ -1,6 +1,6 @@
 ![Development](https://github.com/edgardhab/edgardhab/blob/main/github-header-image.png)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=edgard-habanbou.edgard-habanbou">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">

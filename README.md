@@ -31,6 +31,9 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="ASP.NET" src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dot-net&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="PowerBI" src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black" />
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
 
 ## Stats:

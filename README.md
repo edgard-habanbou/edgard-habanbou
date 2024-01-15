@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-## Things I code with
+## Things I code with:
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -39,13 +39,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=edgard-habanbou&layout=compact&theme=transparent)](https://github.com/Christopher-Yammine/github-readme-stats)
 
-## Trophies
+## Trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=edgard-habanbou&theme=onedark)](https://github.com/edgard-habanbou)
 
-## Links
+## Links:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/edgard-habanbou)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/edgard-habanbou/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/edgard-habanbou)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/edgard-habanbou/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:edgard.habanbou@gmail.com)  
 
 <h1 align='center'>⚡️<i>Stay Positive!</i>⚡️</h1>
 

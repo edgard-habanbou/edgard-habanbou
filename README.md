@@ -1,6 +1,6 @@
 ![Development](https://github.com/edgardhab/edgardhab/blob/main/github-header-image.png)
 
-[![committers.top badge](https://user-badge.committers.top/lebanon/USERNAME.svg)](https://user-badge.committers.top/lebanon/USERNAME) <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=edgard-habanbou.edgard-habanbou">
+[![committers.top badge](https://user-badge.committers.top/lebanon/edgard-habanbou.svg)](https://user-badge.committers.top/lebanon/edgard-habanbou) <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=edgard-habanbou.edgard-habanbou">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">

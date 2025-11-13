@@ -37,14 +37,6 @@
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
 
-## Stats:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgard-habanbou&show_icons=true&theme=transparent)](https://github.com/edgard-habanbou) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=edgard-habanbou&layout=compact&theme=transparent)](https://github.com/Christopher-Yammine/github-readme-stats)
-
-## Trophies:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=edgard-habanbou&theme=onedark)](https://github.com/edgard-habanbou)
-
 ## Links:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/edgard-habanbou) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/edgard-habanbou/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:edgard.habanbou@gmail.com)  
@@ -54,6 +46,7 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
 
 
 
